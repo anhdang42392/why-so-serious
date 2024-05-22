@@ -1,0 +1,2 @@
+../Core/Src/NMEAbackup.c:32:5:decodeGGA	72	static
+../Core/Src/NMEAbackup.c:221:5:accurateSignal	16	static
